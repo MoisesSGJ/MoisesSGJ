@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou buscando minha primeira oportunidade na area
-- 🌱 Estudando python
+- 🌱 Expecializando em python
 - 💬 contate-me no email: moisesjunior25@outlook.com.br
 -->
   
