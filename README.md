@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 🔭 Estou buscando minha primeira oportunidade na area<br>- 🌱 Expecializando em python<br>- 💬 contate-me no email: moisesjunior25@outlook.com.br<br>--></p>
+<p align="left">- 🔭 Estou buscando minha primeira oportunidade na area<br>- 🌱 Expecializando em python<br>- 💬 contate-me no email: gomesmoises119@gmail.com<br>--></p>
 
 ###
 
