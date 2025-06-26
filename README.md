@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 🔭 Estou buscando minha primeira oportunidade na area<br>- 🌱 Expecializando em python<br>- 💬 contate-me no email: gomesmoises119@gmail.com<br>--></p>
+<p align="left">-🌱 .Net Developer<br>- 💬 email: gomesmoises119@gmail.com<br>--></p>
 
 ###
 
