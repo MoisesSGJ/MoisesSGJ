@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">-🌱 .Net Developer<br>- 💬 email: gomesmoises119@gmail.com<br>--></p>
+<p align="left">-🌱 Fullstack Developer<br>- 💬 email: gomesmoises119@gmail.com<br>--></p>
 
 ###
 
