@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">hey there, I'm MoisesSGJ 👋</h1>
+<h1 align="center">I'm MoisesSGJ 👋</h1>
 
 ###
 
